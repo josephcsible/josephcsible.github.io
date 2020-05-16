@@ -2,23 +2,23 @@
 
 # Functions
 
-| Name | MediaWiki LuaSandbox |
-| - | - |
-| getmetatable | Restricted<sup>4</sup> |
-| pcall | Restricted<sup>1</sup> |
-| setmetatable | Unrestricted |
-| xpcall | Restricted<sup>1</sup> |
+| Name | MediaWiki LuaSandbox | MediaWiki LuaStandalone | MediaWiki Scribunto |
+| - | - | - | - |
+| getmetatable | Unrestricted |  | Restricted<sup>4</sup> |
+| pcall | Restricted<sup>1</sup> |  |  |
+| setmetatable | Unrestricted |  |  |
+| xpcall | Restricted<sup>1</sup> |  |  |
 
 # Resources
-| Name | MediaWiki LuaSandbox |
-| - | - |
-| CPU time | Limited<sup>2</sup> |
-| Memory | Limited<sup>3</sup> |
+| Name | MediaWiki LuaSandbox | MediaWiki LuaStandalone | MediaWiki Scribunto |
+| - | - | - | - |
+| CPU time | Limited<sup>2</sup> |  |  |
+| Memory | Limited<sup>3</sup> |  |  |
 
 # Other
-| Name | MediaWiki LuaSandbox |
-| - | - |
-| Passing tables to PHP | Restricted<sup>5</sup> |
+| Name | MediaWiki LuaSandbox | MediaWiki LuaStandalone | MediaWiki Scribunto |
+| - | - | - | - |
+| Passing tables to PHP | Restricted<sup>5</sup> |  |  |
 
 # Footnotes
 
